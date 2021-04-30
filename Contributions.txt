@@ -1,0 +1,17 @@
+﻿Contributions:
+
+
+* Rakshit - 
+Data Collection and Processing ; Model construction (SVR, Linreg , Poly reg) ; Visualization ; Report Writing 
+
+
+* Vinay R Sabarad - 
+Data Collection and Processing ; Model construction (Poly reg ,Linreg & SVR ) ; Report Writing 
+
+
+* Arka Nayak - 
+Data Collection and Data Processing ; Moving Averages ; Data Visualization ; Report Writing.
+
+
+* Shanmukha Aditya V -
+Data collection, Data preprocessing, Mathematical model SIR construction, Model for predicting date on fully vaccinated percentage , Report writing.

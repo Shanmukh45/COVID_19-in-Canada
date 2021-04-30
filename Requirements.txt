@@ -1,0 +1,18 @@
+﻿Requirements:
+
+
+* Jupyter Notebook
+
+
+* Data sets
+
+
+* Libraries Required
+
+
+Seaborn
+Sklearn
+Matplotlib
+Numpy 
+Pandas
+Datetime
